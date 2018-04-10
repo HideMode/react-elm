@@ -1,0 +1,33 @@
+{
+  "name": "react-elm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HideMode/react-elm.git"
+  },
+  "author": "Manito Tao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HideMode/react-elm/issues"
+  },
+  "homepage": "https://github.com/HideMode/react-elm#readme",
+  "dependencies": {
+    "@types/react": "^16.3.5",
+    "@types/react-dom": "^16.0.4",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^4.0.0",
+    "clean-webpack-plugin": "^0.1.19",
+    "html-webpack-plugin": "^3.2.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.8.1",
+    "webpack": "^4.5.0"
+  }
+}
